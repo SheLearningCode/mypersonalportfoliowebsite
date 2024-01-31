@@ -27,9 +27,9 @@ export const projects = [
   },
   {
     title: "Portfolio Website",
-    url: "https://github.com/SheLearningCode/react-portfolio-website",
+    url: "https://ivana-maksimovic.vercel.app",
     image: "projects/image-1.png",
-    description: "React/TailwindCSS website written in JavaScript",
+    description: "React/Bootstrap5 - website written in JavaScript",
   },
   {
     title: "Multi-Tenancy",
@@ -37,10 +37,10 @@ export const projects = [
     image: "projects/multitenancy.png",
     description: "Multi Tenancy Schema Approach using Flyway",
 
-    title: "3D Portfolio",
-    url: "https://github.com/SheLearningCode/mypersonalportfoliowebsite",
+    title: "Responsive Portfolio",
+    url: "https://ivanas-responsive-portfolio.vercel.app",
     image: "projects/3dportfolio.png",
-    description: "made with blender, mixamo, threejs, vite ",
+    description: "ReactJs/EmailJs/React-Icons ",
   },
 ];
 
